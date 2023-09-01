@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         // Add a delay for the animation before redirecting to your full website
         setTimeout(function () {
-            window.location.href = "your-full-website.html";
+            window.location.href = "full-website.html";
         }, 500); // Adjust the delay time (in milliseconds) as needed
     });
 });
