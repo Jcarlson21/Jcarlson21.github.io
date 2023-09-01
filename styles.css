@@ -5,8 +5,8 @@ body {
 }
 
 .landing-page {
-    background-color: white;
-    color: black;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
     display: flex;
 }
 
